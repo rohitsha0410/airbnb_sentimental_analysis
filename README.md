@@ -4,10 +4,8 @@ The dataset contains the detailed review data for listings in Bangkok compiled o
 
 The analysis progress would be separated on three notebooks.
 
-The first notebook will cover the Data Processing Part which covers the data loading and cleaning part. 
-
-The second notebook will cover the Text Processing Part which covers the text processing part. 
-
-The third notebook will cover the Modeling part, where we will be doing sentimental analysis and making classification Machine Learing algorithms. We will then conclude with modeling the most accurate and high performing Deep Learning Modeling.
+1) The first notebook will cover the Data Processing Part which covers the data loading and cleaning part. 
+2) The second notebook will cover the Text Processing Part which covers the text processing part. 
+3) The third notebook will cover the Modeling part, where we will be doing sentimental analysis and making classification Machine Learing algorithms. We will then conclude with modeling the most accurate and high performing Deep Learning Modeling.
 
  
