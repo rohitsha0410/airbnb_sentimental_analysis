@@ -4,7 +4,7 @@ The dataset contains the detailed review data for listings in Bangkok compiled o
 
 The analysis progress would be separated on three notebooks.
 
-The firt notebook will cover the Data Processing Part which covers the data loading and cleaning part. 
+The first notebook will cover the Data Processing Part which covers the data loading and cleaning part. 
 
 The second notebook will cover the Text Processing Part which covers the text processing part. 
 
